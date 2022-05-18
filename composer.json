@@ -1,0 +1,15 @@
+{
+    "name": "youcode/free-code-camp-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaimaa et-toumy",
+            "email": "chaimaetoumy5@gmail.com"
+        }
+    ],
+    "require": {}
+}
